@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "11da330a-ed4a-40ff-808b-b9866d480c40",
+		"name": "fogado",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "41571412"
+	},
+	"item": [
+		{
+			"name": "sima",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "szobak",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "kihasznaltsag",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "foglalasok",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
